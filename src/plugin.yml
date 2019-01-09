@@ -1,0 +1,6 @@
+name: Trashcan
+version: 1.0
+main: net.oneescape.trashcan.Core
+author: InOutDevelopment
+commands:
+  trashcan:
